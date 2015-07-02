@@ -29,7 +29,9 @@ Game levels include <b>[Lode Runner (150 levels) & Championship Lode Runner (50 
 
 </table>
 
-### PLAY
-<a target="_blank" href="http://loderunnerwebgame.com/game/">http://loderunnerwebgame.com/game/</a>
+### NEW Version
+
+Switch to new version: <a target="_blank" href="https://github.com/SimonHung/LodeRunner_TotalRecall">Lode Runner - Total Recall (超級運動員 - 全面回憶)</a>
+ 
 
 ------------------------------------
